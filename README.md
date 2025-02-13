@@ -22,10 +22,6 @@ I am a 26-year-old Computer Science student at UNESP, originally from Physics, d
 
 ---
 
-![Jvbeliziario's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvbeliziario&show_icons=true&theme=transparent)
-
----
-
 
 ## 📚 Featured Projects
 
@@ -52,3 +48,6 @@ I work on developing algorithms for **laboratory automation** and experimental d
 
 Thank you for visiting my profile! 🚀
 
+---
+
+![Jvbeliziario's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvbeliziario&show_icons=true&theme=transparent)
