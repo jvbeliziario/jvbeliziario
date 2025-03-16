@@ -1,6 +1,6 @@
 # ➥ Hello, World! I'm João Vitor Beliziario!
 
-I am a 26-year-old Computer Science student at UNESP driven by curiosity and a passion for understanding the unknown. My main focus is on Data Science, where I explore patterns, automate processes, and transform raw information into meaningful insights. I thrive on solving complex problems, whether in scientific research, software development, or real-world applications.
+I am a Computer Science student at UNESP driven by curiosity and a passion for understanding the unknown. My main focus is on Data Science, where I explore patterns, automate processes, and transform raw information into meaningful insights. I thrive on solving complex problems, whether in scientific research, software development, or real-world applications.
 
 ---
 
