@@ -26,9 +26,6 @@ I am a Computer Science student at UNESP driven by curiosity and a passion for u
 
 ## 📚 Featured Projects
 
-### 🎶 **Music Data Analysis**
-A project aimed at **analyzing music habits and suggesting new songs** based on users' listening patterns. I use the **Spotify API**, **Python**, **SQL**, and **data visualization tools** to extract insights and create personalized recommendations.
-
 ### 🔬 **Automation and Data Analysis at E-IMP Laboratory**
 I work on developing algorithms for **laboratory automation** and experimental data analysis, contributing to **master's and doctoral** projects in the fields of **printed electronics** and thermoelectric materials.
 
