@@ -1,6 +1,6 @@
 # Hello, World! I'm João Vitor Beliziario!
 
-I am a Computer Science student at UNESP and currently an Attribute Management Intern at Whirlpool Corporation, focused on Data Analytics. Driven by curiosity and a passion for understanding the unknown. My main focus is on Data Science, where I explore patterns, automate processes, and transform raw information into meaningful insights. I thrive on solving complex problems, whether in scientific research, software development, or real-world applications.
+I am a Computer Science student at UNESP and currently a Data Scientist Jr. at MadeInWeb, focused on Data Science, Machine Learning and GenAI. Driven by curiosity and a passion for understanding the unknown. My main focus is on Data Science, where I explore patterns, automate processes, and transform raw information into meaningful insights. I thrive on solving complex problems, whether in scientific research, software development, or real-world applications.
 
 ---
 
