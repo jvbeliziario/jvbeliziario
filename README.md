@@ -7,7 +7,6 @@ I am a Computer Science student at UNESP and currently a Junior Data Scientist a
 ## About Me
 -  Former Physics student, now decoding the universe through transistors.
 -  I strive to enhance my skills in **data analysis**, **software development**, and **artificial intelligence**.
--  Currently, I am working on a project that combines **music and data analysis**, using **Python, SQL, and Power BI** to explore music consumption patterns and suggest new songs to users.
 -  Passionate about **competitive games** and a fan of the **Souls** franchise!
 -  Advanced English proficiency, enabling international collaboration and access to cutting-edge technical materials.
 
