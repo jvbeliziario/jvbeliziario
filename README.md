@@ -1,6 +1,6 @@
 # Hello, World! I'm João Vitor Beliziario!
 
-I am a Computer Science student at UNESP and currently a Data Scientist Jr. at MadeInWeb, focused on Data Science, Machine Learning and GenAI. Driven by curiosity and a passion for understanding the unknown. My main focus is on Data Science, where I explore patterns, automate processes, and transform raw information into meaningful insights. I thrive on solving complex problems, whether in scientific research, software development, or real-world applications.
+I am a Computer Science student at UNESP and currently a Junior Data Scientist at MadeinWeb, focused on Data Science, Machine Learning and GenAI. My main focus is on Data Science, where I explore patterns, automate processes, and transform raw information into meaningful insights. I thrive on solving complex problems, whether in scientific research, software development, or real-world applications.
 
 ---
 
@@ -21,17 +21,9 @@ I am a Computer Science student at UNESP and currently a Data Scientist Jr. at M
 
 ---
 
-
-## Featured Projects
-
-###  **Automation and Data Analysis at E-IMP Laboratory**
-I work on developing algorithms for **laboratory automation** and experimental data analysis, contributing to **master's and doctoral** projects in the fields of **printed electronics** and thermoelectric materials.
-
----
-
 ##  Goals and Interests
 - Apply **Data Science** to solve complex problems and create value in different fields.
-- Explore new approaches for **artificial intelligence** and **personalized recommendations**.
+- Explore and learn with intricate approaches for **artificial intelligence** and **Machine Learning**.
 - Develop fun yet intriguing complex applications evolving as developer and scientist.
 
 ---
